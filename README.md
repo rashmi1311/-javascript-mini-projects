@@ -1,6 +1,6 @@
 # JavaScript Mini Projects
 
-This repository contains five small project made using HTML, CSS and JavaScript.
+This repository contains the complete code for five small projects made using HTML, CSS and JavaScript.
 
 ## About the mini-projects
 
