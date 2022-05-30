@@ -34,8 +34,8 @@ https://user-images.githubusercontent.com/92393664/170877428-9d0efafe-bc7b-4d85-
 
 A bar at the top right corner shows the percentage that denotes how much the document has been viewed/scrolled.  
 
-<img width="960" alt="proj41" src="https://user-images.githubusercontent.com/92393664/170877969-3edfde0d-bccb-4f5a-bd70-e4f956f4ab48.png">  
-<img width="960" alt="proj42" src="https://user-images.githubusercontent.com/92393664/170877982-747b9843-220a-411b-ac5b-9251fa5adb1f.png">  
+<img width="960" alt="The screenshot for the percentage scrolled page which shows the initial percentage of 0%" src="https://user-images.githubusercontent.com/92393664/170877969-3edfde0d-bccb-4f5a-bd70-e4f956f4ab48.png">  
+<img width="960" alt="Another screenshot for the percentage scrolled page which shows the 98% percentage after scrolling down almost to the end" src="https://user-images.githubusercontent.com/92393664/170877982-747b9843-220a-411b-ac5b-9251fa5adb1f.png">  
   
 
 ### - Project 5: Ping Pong Game  
