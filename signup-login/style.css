@@ -1,0 +1,52 @@
+body{
+  background-image: linear-gradient(to bottom right, lightblue , lightsteelblue);
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+  margin: auto;
+  background-color: white;
+  margin-top: 5%;
+  padding: 30px 130px;
+  width: max-content;
+}
+
+h1{
+  text-align: center;
+  background-color: lightsteelblue;
+}
+
+#login{
+  display: none;
+}
+
+#login-text{
+  font-style: italic;
+  background-color: lightblue;
+  cursor: pointer;
+}
+
+.heading{
+  font-weight: bold;
+}
+
+.button{
+  padding: 10px 25px;
+  background-color: lightblue;
+  border: none;
+  font-size: 1rem;
+}
+
+div>input{
+  font-size: 1rem;
+  border: solid 2px lightsteelblue;
+}
+
+#welcomeScreen{
+  display: none;
+}
+
+#accessDenied{
+  display: none;
+}

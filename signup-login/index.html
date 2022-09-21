@@ -1,0 +1,41 @@
+<html>
+<head>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+  <div id="signup">
+    <h1>Sign Up!</h1>
+    <p class="heading">Username:</p>
+    <input type="text" name="username" id="username">
+    <p class="heading">Email ID:</p>
+    <input type="email" name="email" id="email">
+    <p class="heading">Password:</p>
+    <input type="password" name="password" id="password"><br><br>
+    <input type="button" value="Sign Up" class="button" onclick="registerUser()">
+    <p>Already signed up? <span onclick="renderLogin()" id="login-text">Login here!</span></p>
+  </div>
+
+  <div id="login">
+    <h1>Login!</h1>
+    <p class="heading">Username:</p>
+    <input type="text" id="loginUsername">
+    <p class="heading">Password:</p>
+    <input type="password" id="loginPassword"><br><br>
+    <input type="button" value="Login" class="button" onclick="logInUser()"><br><br>
+  </div>
+
+  <div id="welcomeScreen">
+    <h1 style="padding: 10px">Succesfully Logged in!<br><br> Welcome!!!</h1>
+  </div>
+
+  <div id="accessDenied">
+    <h1 style="padding: 10px">Access Denied.</h1>
+    <input type="button" value="Return" class="button" onclick="returnToSignUp()">
+  </div>
+
+  <script src="./script.js"></script>
+
+</body>
+</html>
