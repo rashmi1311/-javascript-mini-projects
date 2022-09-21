@@ -1,0 +1,85 @@
+body{
+  font-family: sans-serif;
+}
+
+.container{
+  margin: auto;
+}
+
+.button {
+  background-image: linear-gradient(to bottom right, #4CAF50, #409243);
+  border: none;
+  color: white;
+  padding: 7px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.9rem;
+  margin: 0px 2px 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#heading{
+  color: rgb(92, 91, 91);
+  font-size: 2rem;
+  margin-bottom: 12px;
+}
+
+#username{
+  padding: 5px;
+  border: 1px solid rgb(92, 91, 91);
+  font-size: 0.9rem;
+  border-radius: 4px;
+}
+
+#username:focus{
+  outline: none;     
+  box-shadow: 0px 0px 5px 2px lightskyblue;
+  border: 1px solid rgb(89, 169, 219);
+}
+
+#title{
+  font-size: 1.7rem;
+  color: rgb(107, 106, 106);
+  padding: 3px;
+  margin-top: 10px;
+}
+
+#title span{
+  color: rgb(128, 144, 163);
+  font-size: 1.5rem;
+}
+
+#img{
+  width: 150px;
+  padding: 2px;
+}
+
+#followers, #following, #repos{
+  padding: 2px;
+  margin-left: 3px;
+}
+
+.data{
+  display: inline-block;
+  margin: 2px;
+}
+
+#moreData{
+  height: 100px;
+  width: 150px;
+}
+
+#reposList div{
+  background-color: orange;
+  padding: 3px;
+  margin: 3px;
+  display: inline-block;
+}
+
+#rlisttext{
+  padding: 2px;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
