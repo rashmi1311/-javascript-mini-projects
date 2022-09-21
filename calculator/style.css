@@ -1,0 +1,21 @@
+input[type=button] {
+  display: inline-block;
+   width: 100%;       
+   height: 100%;      
+   margin-bottom: 0.5em;
+   padding-top: .6em;
+   padding-bottom: .6em;
+   color: #fff;
+   background-color: #aaabbb;
+   border-radius: 5px;
+   border: solid #cccccc 1px;
+   box-shadow: 2px 2px 1px #888888;
+   clear:right;
+}
+
+#expTxt{
+  /* background-color: transparent; */
+  border: solid 1px #aaabbb;
+  /* border-bottom: dashed 3px #536f7c; */
+  font-size:25px;
+}
